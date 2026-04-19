@@ -293,19 +293,3 @@ a:focus-visible {
   .card, .btn { transition: none; }
   .card::before, .btn::before { transition: none; }
 }
-
-
-/* Thumbnail images on project cards */
-.thumb{
-  width:100%;
-  height:180px;
-  object-fit:cover;
-  border-radius: calc(var(--radius) + 4px);
-  border: 1px solid rgba(255,255,255,0.10);
-  margin-bottom: 12px;
-  filter: saturate(1.05) contrast(1.02);
-  box-shadow: 0 10px 30px rgba(0,0,0,0.35);
-}
-@media (max-width: 860px){
-  .thumb{ height: 200px; }
-}
