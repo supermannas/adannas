@@ -1,0 +1,242 @@
+===== HOME (index.html) =====
+AD Annas | Content & Creative Leadership Skip to content 
+Aaron Daniel “AD” Annas 
+Creative Direction | Storytelling | Editorial Leadership 
+Work Leadership About Resume Contact 
+Senior director-level content and creative leadership 
+Creative Director | Storytelling | Editorial Leadership 
+I lead creative teams and develop story-driven content that connects audiences to real experiences. My work focuses on human-centered storytelling that translates complex issues into narratives people understand and respond to. 
+View featured work Download resume 
+Life In the Gap 
+Documentary exploring economic inequality through personal stories. Selected for broadcast on PBS North Carolina’s NC Channel (Fall release) and presented through community screenings. Designed to create emotional connection and deepen audience understanding of real-world financial challenges. 
+Documentary Distribution packaging Community engagement 
+Content Strategy & Creative Direction 
+Led development of cross-platform storytelling initiatives, aligning narrative, production workflows, and audience engagement across projects. Built systems to support consistent, high-quality creative output. 
+Team leadership Governance Editorial systems 
+1X NEO initiative 
+Stakeholder narrative and creative assets (proposal, one-sheets, deck) to support an innovation initiative, cross-program relevance, and procurement readiness. 
+Positioning One-sheets Stakeholder storytelling 
+Completed films 
+Selected credits and distribution links (IMDb + FilmFreeway). Accurate roles, fast scan. 
+Storytelling Production Post 
+Teaching systems (governance at scale) 
+Governance at scale: templates, QA, accessibility baseline, and measured iteration. Improved course evaluations from 4.30 to 4.77. 
+Accessibility Templates Operations 
+How I lead content and creative 
+Operating model 
+Single narrative spine, adapted to channel behavior and audience segment. 
+Clear briefs, editorial calendar, and content governance for voice, clarity, and accessibility. 
+Design system mindset, so quality scales and teams move faster. 
+Feedback loops, performance learning, and iteration without losing brand integrity. 
+What you can expect 
+Strong conceptual leadership with practical execution. 
+Multi-format storytelling: written, visual, video, social, and web. 
+Calm, direct leadership and a bias toward finished outputs. 
+Content governance (voice, clarity, accessibility) 
+Standards 
+Voice and tone guidelines, with channel-specific adaptation. 
+Accessibility baseline: alt text, captions, plain language, readable structure. 
+Editorial QA: clarity, accuracy, consistency, and inclusive framing. 
+Workflow 
+Brief intake, calendar planning, and clear approvals. 
+Reusable templates and a design-system mindset to scale quality. 
+Performance review loop: learn, refine, and ship the next iteration. 
+About 
+I’m a creative leader and award-winning filmmaker with 10+ years of experience developing story-driven content across documentary, broadcast, and digital.
+I lead teams, shape narrative strategy, and deliver content from concept through delivery, with strong post-production and editorial leadership.
+I’m especially strong for mission-driven organizations because I balance emotional truth with clarity, accessibility, and measurable outcomes. 
+Resume 
+Download resume (PDF) 
+Download resume (DOCX) 
+Contact 
+Troutman, NC (Remote) · (704) 604-9093 
+Email: aarondanielannas@gmail.com 
+LinkedIn: linkedin.com/in/aaron-daniel-annas-6403a417 
+Completed films: FilmFreeway | IMDb 
+My work is grounded in real stories and shaped by a belief that how we tell them matters. 
+Built as a lightweight GitHub Pages site.
+
+===== WORK: Life In the Gap (work/life-in-the-gap.html) =====
+Life In the Gap | AD Annas 
+Aaron Daniel “AD” Annas 
+Creative Direction | Storytelling | Editorial Leadership 
+Work Contact 
+Case study 
+Life In the Gap 
+Documentary exploring economic inequality through personal stories. Selected for broadcast on PBS North Carolina’s NC Channel (Fall release) and presented through community screenings. Designed to create emotional connection and deepen audience understanding of real-world financial challenges. 
+Featured project summary 
+My role: Producer, Director, Editor. 
+Focus: human-centered storytelling, ethical representation, and cross-channel narrative consistency. 
+Primary outputs: film, screening and panel framing, partner-ready messaging, press-ready copy, distribution packaging. 
+Context or challenge 
+Tell a clear, human story about economic precarity without flattening people into statistics or spectacle. 
+Build emotional connection and audience understanding, and support real-world conversation and action. 
+Package the work for screenings, partners, and distribution contexts with consistent messaging. 
+Audience 
+General audiences at screenings and festivals. 
+Campus and community partners. 
+Donor and supporter audiences. 
+Distribution and programming audiences. 
+Approach 
+Single narrative spine: keep the story human and precise across formats. 
+Multi-format packaging: adapt the same core narrative to posts, event copy, press framing, and program descriptions. 
+Ethical clarity: avoid exploitative framing, prioritize dignity and nuance. 
+Distribution readiness: prepare assets and language that travel with the film. 
+What I built 
+Clear positioning language and short/long descriptions for different contexts. 
+Screening event messaging, including panel framing and audience expectations. 
+Social posts and story-driven summaries designed to invite engagement, not just announce. 
+Press and institutional narrative versions that stay consistent while changing tone and depth. 
+How I led delivery 
+Build the story once, then reuse it through templates (short description, long description, press blurb, event copy). 
+Maintain one source-of-truth doc for language so every new asset stays aligned. 
+Accessibility mindset for outward-facing media (captioning, clear structure, readable copy). 
+Results 
+Produced a well-attended community screening (200+ guests) with an expert and student panel discussion, followed by a reception that deepened community engagement. 
+Built a cross-disciplinary collaboration across multiple campus units and community partners (including Main Street Market and Meeting Place), integrating student contributors into real-world production roles. 
+Secured funding support for production and student engagement (including a $5,000 High-Impact Practice grant) and launched principal production after completing pre-production during the academic year. 
+Received a PBS NC programming offer, demonstrating broadcast readiness and distribution positioning. 
+Back
+
+===== WORK: Content Strategy & Creative Direction (work/department-leadership.html) =====
+Department leadership and brand system | AD Annas 
+Aaron Daniel “AD” Annas 
+Creative Direction | Storytelling | Editorial Leadership 
+Work Contact 
+Case study 
+Department leadership and brand system 
+Unified content and creative into one operating model. Built governance, workflow, and multi-format outputs that support recruitment, visibility, and stakeholder alignment. 
+Featured project summary 
+My role: Department chair and creative lead (content, design direction, video, messaging, operations). 
+Focus: unify voice and visual expression, improve speed and consistency, and ship high-quality assets across channels. 
+Primary outputs: campaign messaging, event/showcase storytelling, recruitment comms, web/digital improvements, internal docs. 
+Context or challenge 
+Create a cohesive narrative and visual identity that reflects the department’s priorities and strengths. 
+Build repeatable workflows so content production is faster, clearer, and more accessible. 
+Support recruitment, partnerships, and community engagement through consistent storytelling. 
+Audience 
+Prospective students and families (recruitment). 
+Current students (clarity, opportunity awareness, belonging). 
+Campus partners and leadership (alignment, credibility, support). 
+External community and partners (visibility, legitimacy, collaboration). 
+Approach 
+Single narrative spine: one core story, translated to channel behavior and audience needs. 
+Governance: voice/tone guardrails, readability standards, accessibility baseline. 
+Editorial planning: calendar mindset with reusable templates to reduce decision fatigue. 
+Design system thinking: consistency that scales across touchpoints. 
+What I built 
+Event storytelling (showcase-style work) with consistent messaging and clear calls to action. 
+Recruitment-facing content that emphasizes outcomes, student work, and program identity. 
+Cross-channel packaging: short posts, longer narratives, and supporting visuals built from the same core story. 
+Accessibility baseline: alt text and caption-ready workflows when publishing media. 
+How I led delivery 
+Intake: clear brief structure and prioritization based on impact. 
+Planning: calendar-based production and deadlines that match real constraints. 
+Production: templates and standards to keep quality consistent. 
+Review: tight feedback loops and practical approvals. 
+Iteration: improve next outputs based on what worked, not on vibes. 
+Results 
+Led major curricular revision work and supported the revision and launch of multiple new and updated courses aligned to institutional learning outcomes and industry trends. 
+Coordinated and hosted the CAM Media Showcase, increasing program visibility and bringing students, faculty, alumni, and community members together around student work. 
+Partnered with Admissions on accepted-student and recruitment events to represent the program to prospective students and families. 
+Developed and documented a forward-looking technology plan (lab upgrades, updated production equipment, centralized media server). Secured full administrative approval and support for purchases. 
+Back
+
+===== WORK: 1X NEO initiative (work/neo-initiative.html) =====
+1X NEO initiative | AD Annas 
+Aaron Daniel “AD” Annas 
+Creative Direction | Storytelling | Editorial Leadership 
+Work Contact 
+Case study 
+1X NEO initiative 
+Stakeholder narrative and creative assets for an innovation initiative. Turned emerging-tech interest into clear learning outcomes, cross-program relevance, and decision-ready documentation. 
+Featured project summary 
+My role: Proposal and narrative lead, content development, cross-campus coordination support. 
+Focus: persuasion, clarity, and stakeholder-ready assets for institutional buy-in. 
+Primary outputs: proposal doc, one-sheet(s), presentation, pre-order documentation package. 
+Context or challenge 
+Build a credible, human-centered innovation narrative that leadership can approve and support. 
+Translate “cool tech” into a practical learning and institutional-impact case. 
+Position the initiative for external partnerships and campus engagement. 
+Audience 
+Institutional leadership and budget decision-makers. 
+Faculty across disciplines (integrated curriculum and ethical AI). 
+Students (high-impact learning and career readiness). 
+External partners and sponsors (regional workforce, innovation visibility). 
+Approach 
+Human-centered AI frame: ethics and responsibility, not hype. 
+Outcome-driven argument: student engagement, curriculum integration, and partnership pathways. 
+Multi-asset packaging: proposal + one-sheet + deck, all aligned to the same narrative spine. 
+Cross-functional relevance: show clear use cases for business, advertising/branding, and media production. 
+What I built 
+Proposal narrative structured around educational value, institutional impact, and partnership potential. 
+One-sheet(s) that communicate the initiative quickly for leadership and external audiences. 
+Presentation deck that frames the “early adopter advantage” and clarifies cross-program benefits. 
+How I led delivery 
+Gather stakeholder needs and translate into a single coherent narrative. 
+Create a source-of-truth language set (positioning, benefits, cost framing) to keep all assets aligned. 
+Package documentation for decision-making and procurement readiness. 
+Results 
+Produced a complete stakeholder-ready asset set (proposal, one-sheet(s), deck) positioning NEO as a cross-campus, high-impact learning initiative. 
+Established an outcome framework for success tracking, including student engagement hours, faculty and student feedback, and external partnership opportunities. 
+Created procurement-ready documentation, including pre-order confirmation and cost framing (estimated $20,000) to support budget planning and approvals. 
+Defined campus activation plan elements, including a launch event concept ("Meet NEO") to build visibility and engagement. 
+Back
+
+===== WORK: Completed films (work/completed-films.html) =====
+Completed films | AD Annas 
+Aaron Daniel “AD” Annas 
+Filmmaker (Producer / Director / Editor) 
+Work Contact 
+Selected work 
+Completed films 
+A short list of completed projects. Full credits and filmography live on IMDb and FilmFreeway. 
+Links 
+IMDb 
+FilmFreeway 
+Selected titles 
+Life in the Gap (Producer / Director / Editor) 
+There’s No Such Thing as Ghosts? (Producer / Director / Editor) 
+Standing Up Against the Sky (Producer / Editor) 
+Back
+
+===== WORK: Teaching systems (work/teaching-systems.html) =====
+Teaching systems (governance at scale) | AD Annas 
+Aaron Daniel “AD” Annas 
+Creative Direction | Storytelling | Editorial Leadership 
+Work Contact 
+Case study 
+Teaching systems (governance at scale) 
+Governance at scale. Built repeatable content systems, templates, and measurement-driven iteration that improve audience experience and reduce operational drag. 
+Featured project summary 
+My role: program leader and systems designer (content strategy, editorial standards, delivery workflows, evaluation). 
+Focus: consistency, accessibility, and outcomes-based alignment across courses. 
+Primary outputs: syllabi, lesson plans, activity handouts, rubrics, quizzes, templates, and course revisions. 
+Context or challenge 
+Make expectations clear and repeatable, so students can focus on learning and production. 
+Design course assets that scale across sections and semesters without losing quality. 
+Align teaching and assessment with institutional outcomes and required reporting. 
+Audience 
+Students (majors and non-majors) needing clarity and confidence. 
+Faculty and department stakeholders (alignment, assessment, and course coherence). 
+Institutional reporting requirements (OAR, program outcomes, and documentation readiness). 
+Approach 
+Governance mindset: standards for voice, structure, and grading fairness. 
+Template first: reusable lesson-plan and handout structures to speed production. 
+Accessibility baseline: readable formatting, clear instructions, caption/alt-text ready workflows. 
+Close the loop: use feedback and evaluations to revise courses and improve outcomes. 
+What I built 
+Consistent lesson-plan format for in-class delivery and continuity. 
+Activity handouts that translate abstract concepts into concrete production moves. 
+Rubrics and templates that reduce ambiguity and improve student confidence. 
+Assessment alignment language for program outcomes and reporting. 
+How I led delivery 
+Build course assets as a coherent system, not one-off documents. 
+Revise between terms based on what confused students, what took too long, and what produced the best work. 
+Maintain consistency across documents so students always know where to find what they need. 
+Results 
+Improved student experience and course performance by revising course design between terms (clearer expectations, better pacing, less confusion). 
+Raised overall teaching evaluation averages from Fall to Spring (from 4.30 to 4.77), with Spring courses receiving perfect scores in every category in at least one course. 
+Supported revision and launch of multiple new and updated courses aligned to institutional learning outcomes and industry trends. 
+Supported departmental assessment alignment with OAR requirements through clearer documentation and outcomes-based framing. 
+Back
