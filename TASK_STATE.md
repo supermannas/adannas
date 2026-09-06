@@ -12,7 +12,7 @@ Update and publish AD Annas's personal website for academic technology and profe
 - Renamed public resume assets and adjusted DOCX page margins/font sizing; regenerated PDF.
 
 ## Pending steps
-- Final validation, commit, push, and live URL check.
+- Monitor GitHub Pages propagation; repository push is complete.
 
 ## Files changed
 - index.html
@@ -37,6 +37,8 @@ Update and publish AD Annas's personal website for academic technology and profe
 - DOCX ZIP integrity passes.
 - No missing local references, em dashes, private contact strings, or current-employer name in public HTML.
 - git diff --check passes.
+- Push succeeded to origin/main as 9e1130404b2294524aa8e9c37ec4cf912a8918b3.
+- Custom domain responds HTTP 200 but currently serves the prior cached GitHub Pages build.
 
 ## Next safest action
-- Review diff, commit, push to origin/main, and verify the public URL.
+- Allow GitHub Pages cache/build propagation, then recheck the custom domain.
