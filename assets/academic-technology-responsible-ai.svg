@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Academic technology and responsible AI</title>
+  <desc id="desc">An editorial workflow diagram showing a question moving through a small test, evidence review, and a human decision.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0d14"/><stop offset="1" stop-color="#151923"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f97316"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+    <pattern id="rules" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M0 27.5H28" stroke="#dbe8ff" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect width="960" height="540" fill="url(#bg)"/><rect width="960" height="540" fill="url(#rules)"/>
+  <text x="72" y="94" fill="#f4f6fb" font-family="system-ui, sans-serif" font-size="17" font-weight="700" letter-spacing="4">ACADEMIC TECHNOLOGY</text>
+  <text x="72" y="138" fill="#f4f6fb" font-family="system-ui, sans-serif" font-size="38" font-weight="800" letter-spacing="-1">A BETTER QUESTION</text>
+  <path d="M74 164H338" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+  <g font-family="system-ui, sans-serif">
+    <text x="72" y="228" fill="#22d3ee" font-size="12" font-weight="700" letter-spacing="3">01 / ASK</text>
+    <rect x="72" y="246" width="196" height="122" rx="4" fill="#101722" stroke="#dbe8ff" stroke-opacity=".28"/>
+    <path d="M92 278H235M92 296H218M92 314H188" stroke="#f4f6fb" stroke-opacity=".78" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="226" cy="344" r="14" fill="none" stroke="#f97316" stroke-width="3"/><path d="M226 336V353M218 344H234" stroke="#f97316" stroke-width="2"/>
+    <text x="356" y="228" fill="#22d3ee" font-size="12" font-weight="700" letter-spacing="3">02 / TEST</text>
+    <rect x="356" y="246" width="196" height="122" rx="4" fill="#101722" stroke="#dbe8ff" stroke-opacity=".28"/>
+    <path d="M378 347V287H402V347M430 347V270H454V347M482 347V305H506V347" fill="#22d3ee" fill-opacity=".18" stroke="#22d3ee" stroke-opacity=".75" stroke-width="2"/>
+    <path d="M378 347H526M378 277H526" stroke="#f4f6fb" stroke-opacity=".42" stroke-width="2"/><path d="M378 277H526" stroke="#f97316" stroke-opacity=".7" stroke-width="2" stroke-dasharray="6 8"/>
+    <text x="640" y="228" fill="#22d3ee" font-size="12" font-weight="700" letter-spacing="3">03 / DECIDE</text>
+    <rect x="640" y="246" width="248" height="122" rx="4" fill="#101722" stroke="#dbe8ff" stroke-opacity=".28"/>
+    <path d="M666 278H832M666 296H812M666 314H786" stroke="#f4f6fb" stroke-opacity=".55" stroke-width="3" stroke-linecap="round"/>
+    <path d="M666 344H736" stroke="#f97316" stroke-width="4" stroke-linecap="round"/><path d="M762 344H832" stroke="#22d3ee" stroke-width="4" stroke-linecap="round"/><circle cx="749" cy="344" r="7" fill="#f4f6fb"/>
+  </g>
+  <g fill="none" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"><path d="M274 307H344"/><path d="M558 307H628"/></g>
+  <g fill="#f4f6fb"><path d="M334 298L346 307L334 316Z"/><path d="M618 298L630 307L618 316Z"/></g>
+  <path d="M72 430H888" stroke="#dbe8ff" stroke-opacity=".18"/>
+  <text x="72" y="474" fill="#f4f6fb" fill-opacity=".64" font-family="system-ui, sans-serif" font-size="15" letter-spacing="3">PRIVACY  /  EVIDENCE  /  HUMAN JUDGMENT</text>
+</svg>
